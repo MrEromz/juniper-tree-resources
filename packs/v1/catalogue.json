@@ -1,0 +1,63 @@
+{
+  "catalogue_version": 1,
+  "schema_version": 1,
+  "generated_at": "2026-10-03T23:49:33Z",
+  "base_url": "https://raw.githubusercontent.com/MrEromz/juniper-tree-resources/main/packs/v1/",
+  "default_translation": "TKJU",
+  "packs": [
+    {
+      "pack_id": "commentary-ai",
+      "kind": "commentary",
+      "version": "2026.10.2",
+      "schema_version": 1,
+      "title": "Verse commentary (AI-generated)",
+      "licence": "ISC (kjvstudy.org, (c) 2025 Kenneth Reitz)",
+      "translation_code": null,
+      "base_translation": "TKJU",
+      "language": "en",
+      "preinstalled": false,
+      "file": "commentary-ai-2026.10.2.sqlite.gz",
+      "compression": "gzip",
+      "size_bytes": 16328759,
+      "installed_size_bytes": 60780544,
+      "sha256": "8c8d91d186d130a6728816dcd995feb031c33ef575ef73561c5880004b4c6841",
+      "sha256_download": "731f583afb6f5cedf735aa67e3d6dcc50943adee5d7b57690e3c0b3aa5499823"
+    },
+    {
+      "pack_id": "study-kjvstudy",
+      "kind": "study",
+      "version": "2026.10.3",
+      "schema_version": 1,
+      "title": "Stories, topics, study guides and reading plans",
+      "licence": "ISC (kjvstudy.org)",
+      "translation_code": null,
+      "base_translation": "TKJU",
+      "language": "en",
+      "preinstalled": true,
+      "file": "study-kjvstudy-2026.10.3.sqlite.gz",
+      "compression": "gzip",
+      "size_bytes": 1012447,
+      "installed_size_bytes": 3129344,
+      "sha256": "0b807ee3a992bac3970af56f820e56488cf73de60ff965081f7c24d55cc6e399",
+      "sha256_download": "1dc41dc66cfc86dda066f5d9c62358f9bae242765f7c1477528c4ebecdfa712e"
+    },
+    {
+      "pack_id": "bible-bsb",
+      "kind": "translation",
+      "version": "2026.10.1",
+      "schema_version": 1,
+      "title": "Berean Standard Bible (BSB)",
+      "licence": "public-domain",
+      "translation_code": "BSB",
+      "base_translation": null,
+      "language": "en",
+      "preinstalled": false,
+      "file": "bible-bsb-2026.10.1.sqlite.gz",
+      "compression": "gzip",
+      "size_bytes": 10861419,
+      "installed_size_bytes": 26775552,
+      "sha256": "c759f52eff5d777009f5d11073a1bd614ab9eaaaea91eed492a0fb1376dad3ec",
+      "sha256_download": "5507d3dada339728706c9ff693a3e9359d8c562d0e66a2517740848bbae68db6"
+    }
+  ]
+}
