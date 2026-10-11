@@ -42,24 +42,6 @@
       "sha256_download": "da0e80ff30f66bd2083312b36a47bde25a09e44b6adf53e114322020a8621b91"
     },
     {
-      "pack_id": "commentary-ai",
-      "kind": "commentary",
-      "version": "2026.10.3",
-      "schema_version": 1,
-      "title": "Verse commentary (AI-generated)",
-      "licence": "ISC (kjvstudy.org, (c) 2025 Kenneth Reitz)",
-      "translation_code": null,
-      "base_translation": "TKJU",
-      "language": "en",
-      "preinstalled": false,
-      "file": "commentary-ai-2026.10.3.sqlite.gz",
-      "compression": "gzip",
-      "size_bytes": 16320531,
-      "installed_size_bytes": 60645376,
-      "sha256": "1983060b8281c827a2f19c6f61587a3bd70c4e140255cf6c03b8822117862255",
-      "sha256_download": "854d423fe3abe1f91c931884a9d829e9b2ff44863c47271692243b25dbfe8cec"
-    },
-    {
       "pack_id": "bible-kjv",
       "kind": "translation",
       "version": "2026.10.2",
@@ -94,6 +76,24 @@
       "installed_size_bytes": 3129344,
       "sha256": "fcab644dffbf26912ca3368484e4b006b8dc957db453ed97a5da95e337a4738c",
       "sha256_download": "dd140c22a7ffa51e99261e9478e63eb1aaf8f94912ba45f15ad29e4fa10014e3"
+    },
+    {
+      "pack_id": "commentary-ai",
+      "kind": "commentary",
+      "version": "2026.10.4",
+      "schema_version": 1,
+      "title": "Verse commentary (AI-generated)",
+      "licence": "ISC (kjvstudy.org, (c) 2025 Kenneth Reitz)",
+      "translation_code": null,
+      "base_translation": "TKJU",
+      "language": "en",
+      "preinstalled": false,
+      "file": "commentary-ai-2026.10.4.sqlite.gz",
+      "compression": "gzip",
+      "size_bytes": 16320991,
+      "installed_size_bytes": 60645376,
+      "sha256": "0117c343b8edd5b8b6c668db087a9de06d496ebf4add5e9da86fdd58dfde2059",
+      "sha256_download": "f3f0598838096c372167329bb736adf7e8a33732d06d2f54b840cfd9646dc1b4"
     }
   ]
 }
