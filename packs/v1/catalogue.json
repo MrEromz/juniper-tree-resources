@@ -42,9 +42,27 @@
       "sha256_download": "1dc41dc66cfc86dda066f5d9c62358f9bae242765f7c1477528c4ebecdfa712e"
     },
     {
+      "pack_id": "xref-openbible",
+      "kind": "crossref",
+      "version": "2026.10.1",
+      "schema_version": 1,
+      "title": "Cross-references (OpenBible.info)",
+      "licence": "CC BY 4.0",
+      "translation_code": null,
+      "base_translation": null,
+      "language": "en",
+      "preinstalled": false,
+      "file": "xref-openbible-2026.10.1.sqlite.gz",
+      "compression": "gzip",
+      "size_bytes": 5817621,
+      "installed_size_bytes": 14893056,
+      "sha256": "f27ed36bd117659f83e3fc85a82ded82910a058443d2ba8d33634be01880c3d6",
+      "sha256_download": "20c4cca11667e969f8010b9284f1682b57e8ce778664eb1b07130b95d8c14829"
+    },
+    {
       "pack_id": "bible-bsb",
       "kind": "translation",
-      "version": "2026.10.1",
+      "version": "2026.10.2",
       "schema_version": 1,
       "title": "Berean Standard Bible (BSB)",
       "licence": "public-domain",
@@ -52,12 +70,12 @@
       "base_translation": null,
       "language": "en",
       "preinstalled": false,
-      "file": "bible-bsb-2026.10.1.sqlite.gz",
+      "file": "bible-bsb-2026.10.2.sqlite.gz",
       "compression": "gzip",
-      "size_bytes": 10861419,
-      "installed_size_bytes": 26775552,
-      "sha256": "c759f52eff5d777009f5d11073a1bd614ab9eaaaea91eed492a0fb1376dad3ec",
-      "sha256_download": "5507d3dada339728706c9ff693a3e9359d8c562d0e66a2517740848bbae68db6"
+      "size_bytes": 10971785,
+      "installed_size_bytes": 27115520,
+      "sha256": "0ef0cc7e0197b534bf158f8b00f52f99efa6c3663dcb42eb06440bf216b24a35",
+      "sha256_download": "47c951b930820453da097d256d73f669ff994aa303fec4c9f6e3f80fe5910bcf"
     }
   ]
 }
