@@ -62,20 +62,20 @@
     {
       "pack_id": "bible-bsb",
       "kind": "translation",
-      "version": "2026.10.2",
+      "version": "2026.10.3",
       "schema_version": 1,
       "title": "Berean Standard Bible (BSB)",
-      "licence": "public-domain",
+      "licence": "public-domain (text); CC BY-SA (lexicon)",
       "translation_code": "BSB",
       "base_translation": null,
       "language": "en",
       "preinstalled": false,
-      "file": "bible-bsb-2026.10.2.sqlite.gz",
+      "file": "bible-bsb-2026.10.3.sqlite.gz",
       "compression": "gzip",
-      "size_bytes": 10971785,
-      "installed_size_bytes": 27115520,
-      "sha256": "0ef0cc7e0197b534bf158f8b00f52f99efa6c3663dcb42eb06440bf216b24a35",
-      "sha256_download": "47c951b930820453da097d256d73f669ff994aa303fec4c9f6e3f80fe5910bcf"
+      "size_bytes": 15520334,
+      "installed_size_bytes": 39514112,
+      "sha256": "ca64f2ac42ab840d705b16ff8bea038851aab9ed9f3e45cc48a1e98d3b511916",
+      "sha256_download": "da0e80ff30f66bd2083312b36a47bde25a09e44b6adf53e114322020a8621b91"
     }
   ]
 }
