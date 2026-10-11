@@ -24,24 +24,6 @@
       "sha256_download": "731f583afb6f5cedf735aa67e3d6dcc50943adee5d7b57690e3c0b3aa5499823"
     },
     {
-      "pack_id": "study-kjvstudy",
-      "kind": "study",
-      "version": "2026.10.3",
-      "schema_version": 1,
-      "title": "Stories, topics, study guides and reading plans",
-      "licence": "ISC (kjvstudy.org)",
-      "translation_code": null,
-      "base_translation": "TKJU",
-      "language": "en",
-      "preinstalled": true,
-      "file": "study-kjvstudy-2026.10.3.sqlite.gz",
-      "compression": "gzip",
-      "size_bytes": 1012447,
-      "installed_size_bytes": 3129344,
-      "sha256": "0b807ee3a992bac3970af56f820e56488cf73de60ff965081f7c24d55cc6e399",
-      "sha256_download": "1dc41dc66cfc86dda066f5d9c62358f9bae242765f7c1477528c4ebecdfa712e"
-    },
-    {
       "pack_id": "xref-openbible",
       "kind": "crossref",
       "version": "2026.10.1",
@@ -76,6 +58,24 @@
       "installed_size_bytes": 39514112,
       "sha256": "ca64f2ac42ab840d705b16ff8bea038851aab9ed9f3e45cc48a1e98d3b511916",
       "sha256_download": "da0e80ff30f66bd2083312b36a47bde25a09e44b6adf53e114322020a8621b91"
+    },
+    {
+      "pack_id": "study-kjvstudy",
+      "kind": "study",
+      "version": "2026.10.4",
+      "schema_version": 1,
+      "title": "Stories, topics, study guides and reading plans",
+      "licence": "ISC (kjvstudy.org)",
+      "translation_code": null,
+      "base_translation": "TKJU",
+      "language": "en",
+      "preinstalled": true,
+      "file": "study-kjvstudy-2026.10.4.sqlite.gz",
+      "compression": "gzip",
+      "size_bytes": 1012477,
+      "installed_size_bytes": 3129344,
+      "sha256": "7ab06136db778747333ebc441e9d938a6654ab8241f53a2d2f2694ebf77de1c2",
+      "sha256_download": "dfb025e3f033d3dc6a89deea9f685f3c52177cf0b67a53c679bce4e8692e0c78"
     }
   ]
 }
